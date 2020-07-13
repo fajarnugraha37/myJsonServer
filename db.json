@@ -1,0 +1,65 @@
+{
+  "client": {
+      "account": 10016286,
+      "nama": "Asa Ageng Afianto",
+      "periode_trading": "8 hari"
+  },
+  "basic_facts": {
+    "jumlah_transaksi": 78,
+    "jumlah_lot_total": 11.6,
+    "modal_awal": 5000,
+    "top_up": 0,
+    "total_deposit": 5000,
+    "drawdown": 63.12
+  },
+  "transaction_facts": {
+    "jumlah_posisi_buy": 25,
+    "jumlah_volume_buy": 3.9,
+    "jumlah_posisi_sell": 53,
+    "jumlah_volume_sell": 7.7,
+    "jumlah_trade_tanpa_sl": 45,
+    "jumlah_volume_tanpa_sl": -59,
+    "jumlah_trade_dengan_sl": 33,
+    "jumlah_volume_dengan_sl": -2836,
+    "jumlah_trade_tanpa_tp": 25,
+    "jumlah_volume_tanpa_tp": -174,
+    "jumlah_trade_dengan_tp": 53,
+    "jumlah_volume_dengan_tp": -2702,
+    "symbol": 9,
+    "win_ration": 50.00,
+    "loss_rata_rata": 97,
+    "profit_rata_rata": 18,
+    "total_profit_loss": -3076,
+    "risk_reward_ration": "5,4 : 1"
+  },
+  "current_condition": {
+    "modal": 5000,
+    "resiko_per_trade": 1.94,
+    "win_ration": 50.00,
+    "risk_reward_ration": "5,4 : 1",
+    "loss_rata_rata": 97,
+    "profit_rata_rata": 18,
+    "total_profit_loss": -3076
+  },
+  "expected_condition": {
+    "modal": 5000,
+    "resiko_per_trade": 1.94,
+    "win_ration": 50.00,
+    "risk_reward_ration": "1 : 2,0",
+    "loss_rata_rata": 97,
+    "profit_rata_rata": 194,
+    "total_profit_loss": 3781
+  },
+  "review": [
+    "Win Ratio sudah baik, tinggal dipertahankan",
+    "Perlu perbaikan pada Risk-reward ratio",
+    "Pasang SL dan TP dengan tepat",
+    "Perhatikan Drawdown",
+    "Terlihat irregular lot size, perlu konfirmasi apa yang melatarbelakangi",
+    "Perlu perbaikan pada trading plan",
+    "Diversifikasi pair sudah bagus, tidak terpaku pada satu pair saja"
+  ],
+  "basic_score": 100,
+  "transaction_score": -50,
+  "result_score": 50
+}
