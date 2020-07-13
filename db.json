@@ -49,17 +49,5 @@
     "loss_rata_rata": 97,
     "profit_rata_rata": 194,
     "total_profit_loss": 3781
-  },
-  "review": [
-    "Win Ratio sudah baik, tinggal dipertahankan",
-    "Perlu perbaikan pada Risk-reward ratio",
-    "Pasang SL dan TP dengan tepat",
-    "Perhatikan Drawdown",
-    "Terlihat irregular lot size, perlu konfirmasi apa yang melatarbelakangi",
-    "Perlu perbaikan pada trading plan",
-    "Diversifikasi pair sudah bagus, tidak terpaku pada satu pair saja"
-  ],
-  "basic_score": 100,
-  "transaction_score": -50,
-  "result_score": 50
+  }
 }
